@@ -1,0 +1,34 @@
+nav {
+    color: lightgray;
+    background-color: black;
+    width: 100%;
+}
+
+header h1{
+    font-variant: small-caps;
+    width: 100%;
+}
+
+main {
+    width: calc(70% - 2px);
+    float: left;
+    border: black solid 1px;
+}
+
+main h2 {
+    font-variant: small-caps;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    color: ligthgray;
+    background-color: black;
+}
+
+footer{
+    width: 100%;
+    clear: both;
+    color: ligthgray;
+    background-color: black;  
+}
